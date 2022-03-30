@@ -1,0 +1,177 @@
+@charset "UTF-8";
+* {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    width: 80%;
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: 51% 0%;
+}
+img {background-attachment: fixed}
+.divone {
+    background-image: url("illustrator_images/prince_out_window.png");
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divtwo {
+    height: 50vh;
+    margin-left: 173px;
+    background-color: deeppink;	
+	
+}
+.divthree {
+    background-image: url("illustrator_images/prince_around_the_world.png");
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 42% 0%;
+}
+.divfour {
+    height: 50vh;
+    margin-left: 150px;
+    background-color: deeppink;
+}
+.divfive {
+    background-image: url("illustrator_images/fake_princess.png");
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 0px;
+    background-position: 62% 0%;
+}
+
+.divsix{
+	height: 50vh;
+	background-color: deeppink;
+	margin-left: 145px;
+}
+.divseven {
+	background-image: url("illustrator_images/storm.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.diveight {
+    height: 50vh;
+    margin-left: 169px;
+    background-color: deeppink;
+}
+.divnine {
+	background-image: url("illustrator_images/closed_door.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divten {
+    height: 50vh;
+    font-style: oblique;
+    margin-left: 174px;
+    background-color: deeppink;
+}
+.diveleven {
+	background-image: url("illustrator_images/princess_in_door.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divtwelve {
+    height: 50vh;
+    margin-left: 174px;
+    background-color: deeppink;
+}
+.divthirteen {
+	background-image: url("illustrator_images/queen.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divfourteen {
+    height: 50vh;
+    margin-left: 162px;
+    background-color: deeppink;
+}
+.divfifteen {
+	background-image: url("illustrator_images/mattresses.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divsixteen {
+    height: 50vh;
+    text-align: left;
+    background-color: deeppink;
+    margin-left: 151px;
+}
+.divseventeen {
+    background-image: url("illustrator_images/upset_princess.png");
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 63% 0%;
+}
+.diveighteen {
+    height: 50vh;
+    margin-left: 167px;
+    background-color: deeppink;
+}
+.divnineteen {
+	background-image: url("illustrator_images/married2.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divtwenty {
+    height: 50vh;
+    margin-left: 155px;
+    background-color: deeppink;
+    padding-left: 0px;
+}
+.divtwentyone {
+	background-image: url("illustrator_images/pea1.png");
+	text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.divtwentytwo {
+    height: 100vh;
+    margin-left: 115px;
+	
+}
+.divone {
+    float: left;
+}
+.divfour h2 {
+    margin-left: -3px;
+}
+
+
+.diveight h2 {
+    margin-left: -4px;
+}
+.divsixteen3 h2 {
+}
+.divsixteen3 {
+    margin-left: 151px;
+    background-color: deeppink;
+    height: 50vh;
+}
+.divsixteen2 {
+    margin-left: 151px;
+    background-color: deeppink;
+    height: 50vh;
+    font-weight: 900;
+}
+
+.divtwentytwo a {
+    color: #E12A9C;
+    background-repeat: repeat;
+}
